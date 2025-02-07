@@ -1,6 +1,6 @@
 # 🎵 Electronic Music Box with Seeed Studio XIAO RA4M1
 
-This repository contains the source code for an **electronic music box** built using the **Seeed Studio XIAO RA4M1**.
+This repository contains the source code for an **electronic music box** built using the **[Seeed Studio XIAO RA4M1](https://www.seeedstudio.com/Seeed-XIAO-RA4M1-p-5943.html)**.
 
 ![overall](overall.jpg)
 
